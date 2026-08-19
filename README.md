@@ -101,11 +101,9 @@ src/
 
 ## Screenshots
 
-*(Placeholder for Screenshots)*
-
-- **Dashboard:** <img src="assets/admin-dashboard.png" alt="Admin Dashboard showing various deaparments" width="800"/>
-- **Employee List:** <img src="/demo/demo/assets/admin-dashboard.png" alt = "admin dashboard showing employees list">
-- **Role-based Views:** <img src="/demo/demo/assets/users-dashboard.png" alt = "User login showing various projects">
+- **Dashboard:** <img src="assets/admin-department.png" alt="Admin Dashboard showing various departments" width="800"/>
+- **Employee List:** <img src="assets/admin-dashboard.png" alt="Admin dashboard showing employees list" width="800"/>
+- **Role-based Views:** <img src="assets/users-dashboard.png" alt="User login showing various projects" width="800"/>
 
 ---
 
