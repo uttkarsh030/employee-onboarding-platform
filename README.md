@@ -103,9 +103,9 @@ src/
 
 *(Placeholder for Screenshots)*
 
-- **Dashboard:** `<!-- Add dashboard screenshot here -->`
-- **Employee List:** `<!-- Add employee list screenshot here -->`
-- **Role-based Views:** `<!-- Add view reflecting Admin vs User permissions here -->`
+- **Dashboard:** <img src="/demo/demo/assets/admin-department.png" alt="Admin Dashboard showing various Deaparments">
+- **Employee List:** <img src="/demo/demo/assets/admin-dashboard.png" alt = "admin dashboard showing employees list">
+- **Role-based Views:** <img src="/demo/demo/assets/users-dashboard.png" alt = "User login showing various projects">
 
 ---
 
