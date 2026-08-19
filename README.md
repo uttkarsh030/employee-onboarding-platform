@@ -103,7 +103,7 @@ src/
 
 *(Placeholder for Screenshots)*
 
-- **Dashboard:** <img src="/demo/demo/assets/admin-department.png" alt="Admin Dashboard showing various deaparments" width="800"/>
+- **Dashboard:** <img src="assets/admin-dashboard.png" alt="Admin Dashboard showing various deaparments" width="800"/>
 - **Employee List:** <img src="/demo/demo/assets/admin-dashboard.png" alt = "admin dashboard showing employees list">
 - **Role-based Views:** <img src="/demo/demo/assets/users-dashboard.png" alt = "User login showing various projects">
 
